@@ -16,4 +16,5 @@ func main() {
 	//{"password":"123","username":"admin"}
 	//curl "localhost:8000/admin/logout?username=admin"
 	//{"username":"admin"}
+
 }
