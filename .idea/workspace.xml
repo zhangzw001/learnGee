@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3808379-4309-489c-9107-09aba159f58e" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/1-http-base/base1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-http-base/base2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-http-base/base3/gee/gee.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-http-base/base3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-http-context/gee/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-http-context/gee/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-http-context/gee/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-http-context/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/gee/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/gee/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/gee/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/gee/router_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/gee/trie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/main2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-http-router/main3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/gee/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/gee/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/gee/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/gee/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/gee/router_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/gee/trie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/middleware/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-http-group/routers/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/gee/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/gee/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/gee/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/gee/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/gee/router_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/gee/trie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/middleware/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/routers/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/static/css/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/static/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/templates/arr.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/templates/css.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-template/templates/custom_func.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/gee/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/gee/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/gee/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/gee/recovery.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/gee/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/gee/router_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/gee/trie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/middleware/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/routers/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/static/css/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/static/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/templates/arr.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/templates/css.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-panic-recover/templates/custom_func.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/main2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/upload/template/upload.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learnGee" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.6/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mxd6nSyoZ6ejQAvaQfNmnKpGS2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/6-template/templates" />
+      <recent name="$PROJECT_DIR$/http-context/gee" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/http-router" />
+      <recent name="$PROJECT_DIR$/http-base" />
+      <recent name="$PROJECT_DIR$/base1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build github.com/zhangzw001/learnGee/6-template" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learnGee" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/6-template/main.go" />
+      <package value="github.com/zhangzw001/learnGee/6-template" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learnGee" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/example/main2.go" />
+      <package value="github.com/zhangzw001/learnGee" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learnGee" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/4-http-group/main.go" />
+      <package value="github.com/zhangzw001/learnGee" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learnGee" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/6-template/main.go" />
+      <package value="github.com/zhangzw001/learnGee" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learnGee" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/7-panic-recover/main.go" />
+      <package value="github.com/zhangzw001/learnGee" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build github.com/zhangzw001/learnGee/6-template" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main2.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,https://mirrors.aliyun.com/goproxy/,https://goproxy.io,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1439" y="298" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611046218745">
+      <screen x="0" y="23" width="1920" height="1012" />
+    </state>
+    <state x="1439" y="298" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1012@0.23.1920.1012" timestamp="1611046218745" />
+    <state x="1111" y="162" key="#go_build_github.com/zhangzw001/learnGee/example" timestamp="1610703018658">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="1111" y="162" key="#go_build_github.com/zhangzw001/learnGee/example/0.23.1920.1011@0.23.1920.1011" timestamp="1610703018658" />
+    <state x="729" y="170" key="#go_build_github.com/zhangzw001/learnGee/http-group" timestamp="1610615735271">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="729" y="170" key="#go_build_github.com/zhangzw001/learnGee/http-group/0.23.1920.1010@0.23.1920.1010" timestamp="1610615735271" />
+    <state x="892" y="162" key="#go_build_github.com/zhangzw001/learnGee/http-router" timestamp="1610521210510">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="892" y="162" key="#go_build_github.com/zhangzw001/learnGee/http-router/0.23.1920.1010@0.23.1920.1010" timestamp="1610521210510" />
+    <state width="1715" height="295" key="GridCell.Tab.0.bottom" timestamp="1611052576333">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1430" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1010@0.23.1920.1010" timestamp="1610620730531" />
+    <state width="1715" height="295" key="GridCell.Tab.0.bottom/0.23.1920.1011@0.23.1920.1011" timestamp="1611052576333" />
+    <state width="1430" height="244" key="GridCell.Tab.0.bottom/0.23.1920.1012@0.23.1920.1012" timestamp="1611047527003" />
+    <state width="1715" height="295" key="GridCell.Tab.0.center" timestamp="1611052576332">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1430" height="255" key="GridCell.Tab.0.center/0.23.1920.1010@0.23.1920.1010" timestamp="1610620730525" />
+    <state width="1715" height="295" key="GridCell.Tab.0.center/0.23.1920.1011@0.23.1920.1011" timestamp="1611052576332" />
+    <state width="1430" height="244" key="GridCell.Tab.0.center/0.23.1920.1012@0.23.1920.1012" timestamp="1611047527002" />
+    <state width="1715" height="295" key="GridCell.Tab.0.left" timestamp="1611052576332">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1430" height="255" key="GridCell.Tab.0.left/0.23.1920.1010@0.23.1920.1010" timestamp="1610620730524" />
+    <state width="1715" height="295" key="GridCell.Tab.0.left/0.23.1920.1011@0.23.1920.1011" timestamp="1611052576332" />
+    <state width="1430" height="244" key="GridCell.Tab.0.left/0.23.1920.1012@0.23.1920.1012" timestamp="1611047527001" />
+    <state width="1715" height="295" key="GridCell.Tab.0.right" timestamp="1611052576333">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1430" height="255" key="GridCell.Tab.0.right/0.23.1920.1010@0.23.1920.1010" timestamp="1610620730528" />
+    <state width="1715" height="295" key="GridCell.Tab.0.right/0.23.1920.1011@0.23.1920.1011" timestamp="1611052576333" />
+    <state width="1430" height="244" key="GridCell.Tab.0.right/0.23.1920.1012@0.23.1920.1012" timestamp="1611047527002" />
+    <state width="1238" height="255" key="GridCell.Tab.1.bottom" timestamp="1610534395867">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="255" key="GridCell.Tab.1.bottom/0.23.1920.1010@0.23.1920.1010" timestamp="1610534395867" />
+    <state width="1238" height="255" key="GridCell.Tab.1.center" timestamp="1610534395864">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="255" key="GridCell.Tab.1.center/0.23.1920.1010@0.23.1920.1010" timestamp="1610534395864" />
+    <state width="1238" height="255" key="GridCell.Tab.1.left" timestamp="1610534395863">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="255" key="GridCell.Tab.1.left/0.23.1920.1010@0.23.1920.1010" timestamp="1610534395863" />
+    <state width="1238" height="255" key="GridCell.Tab.1.right" timestamp="1610534395866">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state width="1238" height="255" key="GridCell.Tab.1.right/0.23.1920.1010@0.23.1920.1010" timestamp="1610534395866" />
+    <state x="668" y="167" key="SettingsEditor" timestamp="1610518818619">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="668" y="167" key="SettingsEditor/0.23.1920.1010@0.23.1920.1010" timestamp="1610518818619" />
+    <state x="1081" y="269" width="812" height="584" key="find.popup" timestamp="1611050778887">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="1081" y="269" width="812" height="582" key="find.popup/0.23.1920.1010@0.23.1920.1010" timestamp="1610530000223" />
+    <state x="1081" y="269" width="812" height="584" key="find.popup/0.23.1920.1011@0.23.1920.1011" timestamp="1611050778887" />
+    <state x="1081" y="269" width="812" height="584" key="find.popup/0.23.1920.1012@0.23.1920.1012" timestamp="1610954044341" />
+    <state x="1092" y="246" width="670" height="676" key="search.everywhere.popup" timestamp="1610592827019">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="1092" y="246" width="670" height="676" key="search.everywhere.popup/0.23.1920.1010@0.23.1920.1010" timestamp="1610592827019" />
+    <state x="1092" y="246" width="670" height="676" key="search.everywhere.popup/0.23.1920.1011@0.23.1920.1011" timestamp="1610441505021" />
+  </component>
+</project>
